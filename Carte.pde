@@ -22,6 +22,8 @@ class Carte {
 
    
  }
+ 
+ //setter/getter pour this.tiree
  public void tireCarte(){
    tiree=true;
  }
@@ -29,10 +31,12 @@ class Carte {
    return tiree;
  }
  
+ //renvoie les infos commune à toutes les cartes
  protected String afficheInfos() {
   return inverse?" inversé : " + significationInv: " :" +signification ; 
  }
  
+ //affiche l'image de la carte avec la symétrie si elle est inversée
  protected void affiche() {
    // println("Affiche classe mère");
      if(inverse){

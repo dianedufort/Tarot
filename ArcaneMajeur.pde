@@ -12,8 +12,6 @@ class ArcaneMajeur extends Carte {
   }
   
   public String afficheInfos() {
-    String mc = inverse?significationInv:signification;
- 
     return num + " - " + nom + " : " + super.afficheInfos();
 
   }  

@@ -1,10 +1,10 @@
 class Emplacement {
 
   String nom;
-  int x, y, col, lig;
-  int deltaX, deltaY;
+  int x, y, col, lig;//position de l'emplacement sur la scène et dans le "tableau"
+  int deltaX, deltaY; //le "padding" emplacement/carte
 
-  Carte c; 
+  Carte c; //la carte attribuée à cet emplacement
 
   Emplacement(String n, int c, int l, int w, int h) {//w et h correspondent à la largeur et hauteur d'une colonne
     nom = n;
@@ -16,6 +16,8 @@ class Emplacement {
     deltaX = w;
     deltaY = h;
   }
+  
+  //place une carte à l'emplacement courant et calcule le padding
   void attribueCarte(Carte tmp) {
     c = tmp;    
     deltaX = (deltaX - c.carte.width)/2;
@@ -34,6 +36,9 @@ class Emplacement {
     popMatrix();
   }
 
+
+  //si la carte est inversée, j'annule les transformations faites à la carte pour 
+  //afficher mon texte dans le bon sens
   public void afficheInfosEmplacement() {
   
     if (c.inverse) {
@@ -46,7 +51,8 @@ class Emplacement {
     } 
     else afficheChampTexte();
   }
-  
+
+    //affiche les informations de la carte dans un cadre noir transparent
   protected void afficheChampTexte() {
     
       fill(0,0,0,100);
@@ -58,4 +64,3 @@ class Emplacement {
       noFill();
   }
 }
-
