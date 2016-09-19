@@ -1,0 +1,23 @@
+Num,Nom,Image,Signification,SignificationInv
+0,Le Fou,data/images/majeurs/0-Fou.jpg,Débuts; innocence; spontanéité; esprit libre,Naïveté; irresponsabilité; bêtise; prise de risque; témérité
+1,Le magicien,data/images/majeurs/1-Mag.jpg,Pouvoir; compétence; concentration; action; avoir des ressources,Manipulation; manque d'organisation; talents latents
+2,La grande prêtresse,data/images/majeurs/2-HP.jpg,Intuition; subconscient; mystères; introspection,Projets cachés; besoin d'écouter son moi intérieur
+3,L'impératrice,data/images/majeurs/3-Imp.jpg,Fertilité (physique et créative); beauté; nature,Blocage créatif; dépendre des autres
+4,L'empereur,data/images/majeurs/4-Emp.jpg,Autorité; structure; bases solides,Domination; contrôle excessif; rigidité; inflexibilité
+5,Le hiérophant,data/images/majeurs/5-Hie.jpg,Religion; identification … un groupe; conformité; tradition; croyances,Restriction; braver le statu quo
+6,Les amoureux,data/images/majeurs/6-Amo.jpg,Amour; union; relations; choix,Manque d'harmonie; conflit de valeurs
+7,Le chariot,data/images/majeurs/7-Cha.jpg,Contrôle; volonté; victoire; affirmation de soi,Manque de cadre ou de direction; agression
+8,La force,data/images/majeurs/8-For.jpg,Force; courage; patience; contrôle,Faiblesse; douter de soi; manque de discipline
+9,L'ermite,data/images/majeurs/9-Erm.jpg,Introspection; recherche de soi; être seul; guidance intérieure,Isolation; solitude; retrait
+10,La roue de fortune,data/images/majeurs/10-WOF.jpg,Bonne chance; karma; cycles de vie; destinée; un tournant,Malchance; forces contraires; perte de contrôle
+11,La justice,data/images/majeurs/11-Jus.jpg,Justice; vérité; cause et effet; loi; équité; impartialité,Partialité; malhonnêteté; irresponsabilité
+12,Le pendu,data/images/majeurs/12-Pen.jpg,Restriction; laisser aller; lâcher prise; sacrifice,Martyr; indécision; délai
+13,L'arcane sans nom,data/images/majeurs/13-Mor.jpg,Fins nécessaires; fin d'un cycle pour débuter un autre; changement; transformation; transition,Résistance au changement; incapacité … aller de l'avant
+14,La tempérance,data/images/majeurs/14-Tem.jpg,Balance; modération; patience; sens,Excès; manque de vision … long terme
+15,Le diable,data/images/majeurs/15-Dia.jpg,Addicton; matérialisme; sexualité; luxure; BDSM,Détachement; retrouver (sa) liberté; reprise de contrôle
+16,La tour,data/images/majeurs/16-Tou.jpg,Désastre; changement brutal; bouleversement; Oh Fuck ! ,Eviter le désastre; peur du changement
+17,L'étoile,data/images/majeurs/17-Eto.jpg,Espoir; spiritualité; renouveau; inspiration; sérénité,Manque de foi; désespoir; découragement
+18,La lune,data/images/majeurs/18-Lun.jpg,Illusion; peur; anxiété; insécurité; subconscient,Manque de bonheur; confusion
+19,Le soleil,data/images/majeurs/19-Sol.jpg,Fun; chaleur; succès; positivité; vitalité,Dépression temporaire; manque de succès
+20,Le jugement,data/images/majeurs/20-Jug.jpg,Jugement; renaissance; pardon,Douter de soi; refus d'introspection
+21,Le monde,data/images/majeurs/21-Mon.jpg,Complétion; intégration; accomplissement; voyage,Absence de complétion; non terminé

@@ -1,0 +1,57 @@
+Image,Signification,SignificationInv
+data/images/mineurs/coupes/Cups01.jpg,Amour; compassion; créativité; émotion forte,Émotions bloquées ou réprimées
+data/images/mineurs/coupes/Cups02.jpg,Amour uni; partenariat; attraction; relations,Rupture; manque d'harmonie dans une relation
+data/images/mineurs/coupes/Cups03.jpg,Célébration; amitié; créativité; communauté,Adultère; tenir la chandelle; créativité étouffée
+data/images/mineurs/coupes/Cups04.jpg,Méditation; contemplation; apathie; ré-évaluation,Ennui; opportunité gâchée; être distant
+data/images/mineurs/coupes/Cups05.jpg,Perte; regret; déception; désespoir; deuil,Aller de l'avant; acceptation; pardon
+data/images/mineurs/coupes/Cups06.jpg,Réunion; nostalgie; souvenirs d'enfance; innocence,Être bloqué dans le passé; naïveté; irréalisme
+data/images/mineurs/coupes/Cups07.jpg,Fantaisie; illusion; choix; imagination; prendre ses désirs pour des réalités,Tentation; illusion; tactiques de diversion
+data/images/mineurs/coupes/Cups08.jpg,S'évader de la réalité; déception; retrait; abandon,Pas d'espoir; dériver sans but; éloignement
+data/images/mineurs/coupes/Cups09.jpg,Souhaits exaucés; confort; bonheur; satisfaction,Convoitise; insatisfaction; matérialisme
+data/images/mineurs/coupes/Cups10.jpg,Harmonie; mariage; bonheur; conformité,Non-conformité des valeurs; mariage ou foyer brisé
+data/images/mineurs/coupes/Cups11.jpg,Un messager; débuts créatifs; synchronicité,Immaturité émotionnelle; absence d'inspiration
+data/images/mineurs/coupes/Cups12.jpg,Romance; charme; prince charmant; imagination,Non réaliste; jalousie; être maussade
+data/images/mineurs/coupes/Cups13.jpg,Sécurité émotionnelle; calme; intuitive; compatissante,Insécurité émotionnelle; co-dépendance
+data/images/mineurs/coupes/Cups14.jpg,Contrôle et équilibre émotionnels; générosité,Manipulation émotionnelle; être volatile ou lunatique
+data/images/mineurs/batons/Wands01.jpg,Inspiration; création; débuts; potentiel,Délais; manque de motivation; se sentir plombé
+data/images/mineurs/batons/Wands02.jpg,Planification du futur; progrès; décisions; découvertes,Peur de l'inconnu; manque de planification 
+data/images/mineurs/batons/Wands03.jpg,Préparation; anticipation; entreprise; expansion,Manque d'anticipation; délais; obstacles concernant des buts à long terme
+data/images/mineurs/batons/Wands04.jpg,Célébration; harmonie; mariage; foyer; communauté,Dégradation de la communication; transition
+data/images/mineurs/batons/Wands05.jpg,Désaccord; compétition; conflit; tension,Éviter le conflit; diversité; être d'accord de ne pas être d'accord
+data/images/mineurs/batons/Wands06.jpg,Reconnaissance publique; victoire; progrès; confiance en soi,Egoïsme; manque de confiance en soi; disgrâce; discrédit
+data/images/mineurs/batons/Wands07.jpg,Défi; compétition; persévérance,Laisser tomber; sur-protecteur; être submergé
+data/images/mineurs/batons/Wands08.jpg,Vitesse; action; voyage aérien; mouvement; changement rapide,Délais; frustration; s'abstenir de faire quelque chose
+data/images/mineurs/batons/Wands09.jpg,Courage; persévérance; test de foi; résistance; ténacité,Etre sur la défensive; être à bout; être hésitant; paranoïa
+data/images/mineurs/batons/Wands10.jpg,Poids; responsabilités; charge de travail; stress; accomplissement,Eviter les responsabilités; avoir les yeux plus grands que la bouche; en faire trop 
+data/images/mineurs/batons/Wands11.jpg,Enthousiasme; exploration; découverte; esprit libre,Déboires au sujet d'idées nouvelles; pessimisme; manque de direction
+data/images/mineurs/batons/Wands12.jpg,Energie; passion; luxure; action; aventure; impulsivité,Hâte; énergie dispersée; délais; frustration
+data/images/mineurs/batons/Wands13.jpg,Exubérance; chaleur; vibrance; détermination,Personne timide; agressive; exigeante
+data/images/mineurs/batons/Wands14.jpg,Leader naturel; vision; entrepreneur; honneur,Impulsivité; hâte; espérances importantes; impitoyable
+data/images/mineurs/swords/Swords01.jpg,Pouvoir brut; victoire; clarté mentale; percées; avancées,Confusion; chaos; manque de clarté
+data/images/mineurs/swords/Swords02.jpg,Indécision; choix; trève; statu quo; émotions réprimées; blocage,Indécision; confusion; surcharge d'informations
+data/images/mineurs/swords/Swords03.jpg,Séparation douloureuse; peine de cœur; peine; rejet ,Se décharger de sa peine; optimisme; pardon
+data/images/mineurs/swords/Swords04.jpg,Contemplation; récupération; passivité; relaxation; repos,Burn-out; manque de progrès; agitation
+data/images/mineurs/swords/Swords05.jpg,Conflit; tension; perte; défaite; gagner à tout prix; trahison,Etre ouvert au changement; ressentiment passé
+data/images/mineurs/swords/Swords06.jpg,Transition douloureuse mais nécessaire; rite de passage,Impossibilité d'aller de l'avant; se trainer des casseroles
+data/images/mineurs/swords/Swords07.jpg,Trahison; déception; l'emporter au paradis; vol,Défi mental; se libérer 
+data/images/mineurs/swords/Swords08.jpg,Isolation; restriction que l'on s'est soi-même imposée; emprisonnement,Etre ouvert à de nouvelles perspectives; renonciation
+data/images/mineurs/swords/Swords09.jpg,Dépression; cauchemars; anxiété intense; désespoir,Absence d'espoir; dépression sévère; tourment
+data/images/mineurs/swords/Swords10.jpg,Recevoir un coup de couteau dans le dos; défaite; crise; trahison; fin; perte; drama,Rétablissement; régénération; peur de la ruine; fin inévitable
+data/images/mineurs/swords/Swords11.jpg,Bavard; curieux; agitation mentale; énergétique,Des paroles mais pas d'acte; hâte; promesses non tenues
+data/images/mineurs/swords/Swords12.jpg,Qui a des opinions définitives; précipité; orienté vers l'action; communicatif,Pensée dissipée; ne fais pas attention aux conséquences
+data/images/mineurs/swords/Swords13.jpg,Organisé; perceptif; réfléchit rapidement; indépendant,Sur-émotionnel; méchant; cœur de pierre
+data/images/mineurs/swords/Swords14.jpg,Réfléchit clairement; pouvoir intellectuel; autorité; vérité,Manipulatoire; tyrannique; abusif
+data/images/mineurs/deniers/Pents01.jpg,Manifestation; nouvelles opportunités financières; prospérité,Opporunité manquée; manque de plannification et d'anticipation
+data/images/mineurs/deniers/Pents02.jpg,Balance; adaptabilité; gestion du temps; gestion des priorités,Désorganisation; Désorganisation financière
+data/images/mineurs/deniers/Pents03.jpg,Travail d'équipe; collaboration; apprentissage; accomplissement initial,Manque de travail d'équipe; non prise en compte des compétences
+data/images/mineurs/deniers/Pents04.jpg,Contrôle; stabilité; sécurité; possession; conservatisme,Convoitise; matérialisme; auto-protection
+data/images/mineurs/deniers/Pents05.jpg,Isolation; insécurité; inquiétudes; pertes financières; pauvreté,Rétablissement après des pertes financières; pauvreté spirituelle
+data/images/mineurs/deniers/Pents06.jpg,Générosité; charité; dons; prospérité; partage; richesse,Dette; égoïsme; charité à sens unique
+data/images/mineurs/deniers/Pents07.jpg,Vision; persévérance; profit; récompense; investissement,Manque de vision à long-terme; succès ou récompense mitigés
+data/images/mineurs/deniers/Pents08.jpg,Etre apprenti; éducation; qualité; engagement,Perfectionnisme; manque d'ambition ou de focus
+data/images/mineurs/deniers/Pents09.jpg,Gratitude; luxe; auto-suffisance; culmination,Sur-investissement au travail; obstacles financiers
+data/images/mineurs/deniers/Pents10.jpg,Richesse; héritage; famille; fondation; retraite,Echec financier; solitude; perte
+data/images/mineurs/deniers/Pents11.jpg,Manifestation; opportunités financières; nouveau travail,Manque de progrès et de plannification; focus à court-terme
+data/images/mineurs/deniers/Pents12.jpg,Efficacité; routine; conservatisme; méthodique,Paresse; ennui; sentiment d'être bloqué
+data/images/mineurs/deniers/Pents13.jpg,Doté de sens pratique; domestique; maternel; terre à terre; sécurité,Manque d'équilibre entre les engagements pros et familiaux
+data/images/mineurs/deniers/Pents14.jpg,Sécurité; contrôle; pouvoir; discipline; abondance,Autoritarisme; domination; contrôle
