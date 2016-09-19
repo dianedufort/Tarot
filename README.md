@@ -1,5 +1,14 @@
 #Classes and OOP Processing
 
+Summary
+----------------
+Tarot deck creation and divinatory spread. The spread class (Tirage) displays any spread of your liking in a table cell fashion
+Give it the number of lines and columns of the table and set each card in a given cell. 
+
+Création d'un jeu de tarot divinatoire et affichage d'un tirage. La classe Tirage affiche les cartes concernées comme dans un tableau. 
+Il suffit de créer le tirage en donnant le nombre de lignes et de colonnes et de placer chaque carte dans une cellule 
+
+
 1.	English
 ----------------
 Simple sketch used to illsutrate the basic principles of OOP. It was initially developped as a guided mini-project to be developed during the practical tutorials I taught. It was intended for beginner developer students to help them : 
