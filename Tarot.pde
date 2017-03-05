@@ -13,7 +13,6 @@ void setup(){
   
   
   Tirage tirage = new Tirage(d, 4, 3, 3 , width, height, "Ce qu'il faut arrêter");
- // println("/////////////////// STOP ////////////////////");
   tirage.emplacement("Physiquement", 2, 1);  //String nom, int c, int l
   tirage.emplacement("Mentalement", 1, 2);
   tirage.emplacement("Emotionnellement", 3, 2);
@@ -22,4 +21,3 @@ void setup(){
   
 
 }
-
