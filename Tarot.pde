@@ -3,6 +3,7 @@ void setup(){
  
   Deck d = new Deck();
  
+  //test
   /* //Deck d, int nbCartes, int nbCol, int nbLig , int largeur, hauteur
   Tirage tirage = new Tirage(d, 3, 3, 1 , width, height);
 
